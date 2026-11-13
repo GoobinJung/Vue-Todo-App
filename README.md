@@ -4,22 +4,6 @@ A to-do list web application built with Vue 3. Users can create an account, sign
 
 Developed in Visual Studio Code using Vue's Composition API, Vue Router, and Axios. This repository contains the frontend; user accounts and task data are handled by a separate backend API.
 
-## Screenshots
-
-The Vue frontend is shown with sample data.
-
-### Todo lists
-
-![Todo App showing three lists for a demo user](docs/screenshots/lists.jpg)
-
-### Task editor
-
-![Editing task names, descriptions, and completion states](docs/screenshots/items.jpg)
-
-### Login
-
-![Todo App login form](docs/screenshots/login.jpg)
-
 ## Features
 
 - User registration, login, and logout
